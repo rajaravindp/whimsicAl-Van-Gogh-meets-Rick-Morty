@@ -1,6 +1,9 @@
 # Transformative Video Creation using Stable Diffusion
 
-![vanGoghRick Morty_gif](https://github.com/rajaravindp/whimsicAl-VanGoghMeetsRickandMorty/assets/118573661/72a87d67-7dd7-47b2-a6a8-f74bb0dbee57) ![VanGoghSimpsons_gif](https://github.com/rajaravindp/whimsicAl-VanGoghMeetsRickandMorty/assets/118573661/1cfde6a0-7a63-4ae4-93dd-bd36744cd494)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/rajaravindp/whimsicAl-VanGoghMeetsRickandMorty/assets/118573661/72a87d67-7dd7-47b2-a6a8-f74bb0dbee57" alt="vanGoghRick Morty_gif" width="45%">
+  <img src="https://github.com/rajaravindp/whimsicAl-VanGoghMeetsRickandMorty/assets/118573661/1cfde6a0-7a63-4ae4-93dd-bd36744cd494" alt="VanGoghSimpsons_gif" width="45%">
+</div>
 
 The creation of the video involves leveraging Stable Diffusion, a cutting-edge AI technique that combines various models like VAE (Variational Autoencoder), CLIP (Contrastive Language-Image Pre-training), and UNET. Here's a breakdown of the process:
 

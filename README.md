@@ -1,4 +1,4 @@
-# Transformative Video Creation using Stable Diffusion
+# Transformative Image Synthesis using Stable Diffusion
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img src="https://github.com/rajaravindp/whimsicAl-VanGoghMeetsRickandMorty/assets/118573661/72a87d67-7dd7-47b2-a6a8-f74bb0dbee57" alt="vanGoghRick Morty_gif" width="45%">

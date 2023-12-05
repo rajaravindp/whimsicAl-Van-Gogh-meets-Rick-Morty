@@ -1,5 +1,7 @@
 # Transformative Video Creation using Stable Diffusion
 
+https://github.com/rajaravindp/whimsicAl-VanGoghMeetsRickandMorty/assets/118573661/70dd0654-fda0-45fb-a6f5-9523ec97fd36
+
 The creation of the video involves leveraging Stable Diffusion, a cutting-edge AI technique that combines various models like VAE (Variational Autoencoder), CLIP (Contrastive Language-Image Pre-training), and UNET. Here's a breakdown of the process:
 
 - Text to Embeddings: The chosen prompts, "Van Gogh style Simpsons digital art" and "Van Gogh style Rick & Morty digital art" undergoe transformation into text embeddings using CLIP, representing the semantic essence of the input.

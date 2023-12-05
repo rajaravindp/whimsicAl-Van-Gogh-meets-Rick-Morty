@@ -2,7 +2,7 @@
 
 The creation of the video involves leveraging Stable Diffusion, a cutting-edge AI technique that combines various models like VAE (Variational Autoencoder), CLIP (Contrastive Language-Image Pre-training), and UNET. Here's a breakdown of the process:
 
-- Text to Embeddings: The chosen prompts, "Van Gogh style Simpsons digital art" and "Van Gogh style Simpsons digital art" undergoe transformation into text embeddings using CLIP, representing the semantic essence of the input.
+- Text to Embeddings: The chosen prompts, "Van Gogh style Simpsons digital art" and "Van Gogh style Rick & Morty digital art" undergoe transformation into text embeddings using CLIP, representing the semantic essence of the input.
 
 - Latent Generation: UNET is employed to generate latent representations based on the text embeddings. These latents act as a bridge between textual input and visual output.
 
